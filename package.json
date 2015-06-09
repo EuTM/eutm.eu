@@ -1,0 +1,19 @@
+{
+  "name": "eutm.eu",
+  "version": "0.0.1",
+  "description": "the application for the event page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EuTM/eutm.eu.git"
+  },
+  "author": "Felix Plitzko, Robin Janssen, Tom Meulendijks, Bob Wassermann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EuTM/eutm.eu/issues"
+  },
+  "homepage": "https://github.com/EuTM/eutm.eu"
+}
